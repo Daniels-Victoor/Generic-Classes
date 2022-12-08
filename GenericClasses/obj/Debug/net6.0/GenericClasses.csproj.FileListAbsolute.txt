@@ -1,0 +1,15 @@
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\bin\Debug\net6.0\GenericClasses.exe
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\bin\Debug\net6.0\GenericClasses.deps.json
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\bin\Debug\net6.0\GenericClasses.runtimeconfig.json
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\bin\Debug\net6.0\GenericClasses.dll
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\bin\Debug\net6.0\GenericClasses.pdb
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.dll
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\refint\GenericClasses.dll
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.pdb
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\GenericClasses.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\GenericClasses\GenericClasses\obj\Debug\net6.0\ref\GenericClasses.dll
